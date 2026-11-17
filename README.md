@@ -37,6 +37,9 @@ All strategies start with **$10,000**, from the first common trading date availa
 | S&P 500 (SPY) | 768.14% | 13.67% | 17.06% | 0.84 | -33.72% |
 
 The unrounded values are in [`output_strategy/strategy_metrics.csv`](output_strategy/strategy_metrics.csv). The saved image is from the same user-shared historical run.
+### Portfolio Growth Comparison
+
+![Investment Strategy Comparison](output_strategy/strategy_comparison.png)
 
 ### Findings
 
