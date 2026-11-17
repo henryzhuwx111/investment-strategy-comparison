@@ -1,0 +1,5 @@
+# Compatible package ranges; actual versions may vary by installation date.
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.9
+yfinance>=0.2.50
